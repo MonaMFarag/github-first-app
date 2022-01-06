@@ -1,5 +1,8 @@
 h1#bod {background-color: aqua;
 color: brown;}
-.mm {color: blue ;
+h1 {color: blue ;
     font-size: 40px;
     font-style: bold;}
+    h2 {color: green ;
+        font-size: 100px;
+        font-style: italic;}
